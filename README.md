@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Vite]((https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white))
+![Vite]((https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 💼 Опыт работы
@@ -37,7 +37,7 @@
 - Цель: создание полноценного клиентского приложения для управления личными финансами с подсказками от ИИ.
 
 ### 💻 Фриланс опыт
-**Верстка сайтов на Tilda + кастомная разработка** (2021-2023)
+**Верстка сайтов на Tilda + кастомная разработка** | 2021-2023
 - Создала 10+ адаптивных сайтов
 - Интеграция кастомного JavaScript для интерактивности
 
