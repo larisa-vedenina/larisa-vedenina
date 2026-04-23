@@ -8,8 +8,7 @@ Frontend-разработчик с коммерческим опытом (React 
 ## 👩‍💻 Проекты
 
 ### Budget Planner  
-🔗 https://ai-budget.ru/  
-🔗 https://github.com/larisa-vedenina/budget-planner
+🔗 [https://ai-budget.ru/](https://larisa-vedenina.github.io/budget-planner/)
 
 SPA-приложение для планирования бюджета с интерактивной рабочей доской.
 
